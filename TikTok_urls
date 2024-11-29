@@ -12,6 +12,7 @@ api19-core-c-useast2a.tiktokv.com
 api19-core-va.tiktokv.com
 api19-normal-c-useast1a.tiktokv.com
 api19-normal-c-useast2a.tiktokv.com
+v16-webapp-prime.tiktok.com
 api19-va.tiktokv.com
 dm16-useast1a.tiktokv.com
 dm16-useast2a.tiktokv.com
@@ -32,6 +33,9 @@ vm.tiktok.com
 www.tiktok.com
 ## list cdn
 lf16-geckocdn-sg.tiktokcdn.com
+p16-sign-va.tiktokcdn.com
+mcs-va.tiktokv.com/v1/list
+mcs-va.tiktokv.com
 sf16-sg.tiktokcdn.com
 sf16-website-login.neutral.ttwstatic.com
 neutral.ttwstatic.com
